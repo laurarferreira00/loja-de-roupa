@@ -1,0 +1,89 @@
+.ajuste {
+    height: 400px;
+}
+
+
+body {
+    background-color: rgb(251, 251, 252);
+
+}
+
+
+header {
+    border-bottom: 10px solid rgba(236, 48, 64, 0.897);
+    height: 115px;
+
+}
+
+/*DEIXAR O LINK COM A COR BRANCA*/
+.link-custom {
+    color: aliceblue;
+    /* Substitua "YourColor" pelo valor da cor desejada */
+    text-decoration: none;
+    /* Remover sublinhado, se desejado */
+}
+
+.link-custom:hover {
+    color: aliceblue;
+}
+
+.navbar-center {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-center .nav-item {
+    margin: 0 15px;
+    /* Espaçamento entre os links */
+}
+
+#cepInput {
+    width: 250px;
+}
+
+.icone {
+    text-align: right;
+}
+
+footer {
+    padding: 20px;
+    bottom: 0;
+    background-color: rgb(102, 103, 104);
+    color: #FFF;
+    clear: both;
+    height: 100%;
+    text-align: center;
+    
+
+}
+
+.caixaCep {
+    background-color: rgb(185, 28, 112);
+    height: 500px;
+    text-align: center;
+    width: 700px;
+    margin-left: 370px;
+    border-radius: 45px;
+    margin: 0 auto;
+    margin-top: 100px;
+    color: aliceblue;
+
+}
+
+.tabela{
+    padding: 30px;
+}
+
+
+.cards {
+    margin-top: 12px;
+}
+
+.tabela {
+    text-align: center;
+}
+.titulo{
+    color: aliceblue;
+}
+
+
